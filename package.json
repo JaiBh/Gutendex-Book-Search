@@ -8,8 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "test": "jest",
-    "test:watch": "jest --watch",
-    "postinstall": "npm rebuild lightningcss && npm rebuild @tailwindcss/oxide"
+    "test:watch": "jest --watch"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
