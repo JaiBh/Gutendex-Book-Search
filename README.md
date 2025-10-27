@@ -34,3 +34,10 @@ npm install
 npm run dev
 npm test
 ```
+
+## Live Demo
+
+Deployed on Vercel for review purposes:
+[https://gutendex-book-search-one.vercel.app/](https://gutendex-book-search-one.vercel.app/)
+
+> Note: The GitHub repository is private and shared only with @omgduke and @Rototu as requested.
