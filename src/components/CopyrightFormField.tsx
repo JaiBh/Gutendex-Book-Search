@@ -26,7 +26,7 @@ function CopyrightFormField({ form }: Props) {
   return (
     <FormField
       control={form.control}
-      name="languages"
+      name="copyright"
       render={(_) => (
         <FormItem className="space-y-2">
           <FormLabel className="font-bold text-md">Copyright Status</FormLabel>

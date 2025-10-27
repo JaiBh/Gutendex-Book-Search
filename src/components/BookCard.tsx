@@ -39,7 +39,7 @@ function BookCard({ book }: Props) {
             <span className="line-clamp-1">
               {" "}
               {authors.length > 0
-                ? authors.map((author) => author.name).join("")
+                ? authors.map((author) => author.name).join(", ")
                 : "Unknown Author"}
             </span>
           </CardDescription>

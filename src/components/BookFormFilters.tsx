@@ -51,7 +51,7 @@ function BookFormFilters({ form, sheetOpen, setSheetOpen }: Props) {
           <CopyrightFormField form={form}></CopyrightFormField>
           <AuthorYearFormField form={form}></AuthorYearFormField>
         </div>
-        <Button form="book-form" type="submit">
+        <Button form="book-form" type="submit" className="mt-2">
           Apply Filters
         </Button>
         <Button
