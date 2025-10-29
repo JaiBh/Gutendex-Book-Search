@@ -47,7 +47,6 @@ Users can search by title or author, filter by language or publication details, 
 ## 🚀 Future Improvements
 
 - Integrate **TanStack Query** for caching, pagination, and background refetching
-- Add **loading skeletons** for better UX during fetches
 - Extend test coverage to include pagination and API edge cases
 - Optionally introduce **infinite scroll** view
 
